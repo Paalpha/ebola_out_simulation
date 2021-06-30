@@ -17,3 +17,6 @@ Alogrithmic framework used to simulate outbreak data characteristics.
 ### Requirements
 Main R packages required to reproduce the simulation experiments.
 
+### Result visualisation
+Sample script for visualising the outputs of the simulation experiments. 
+
