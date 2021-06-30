@@ -1092,7 +1092,7 @@ Model.comMAR<-function(rep=1,rd,p,pw,dat){
   return(output)
 }      
 #########################################################################################################
-#Sensitivity analysis for adjusting for model imperfection for MCAR,MAR and MNAR
+#Sensitivity analysis for adjusting for model sensitivity and specificity for MCAR,MAR and MNAR
 Model.comMAR4<-function(rep=1,rd,p,pw,dat){
   #rep is the number of iterations of the model
   #rd is the % missingness generate in the simulated data
