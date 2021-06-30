@@ -11,3 +11,5 @@ Using simulated data, we use a ML algorithmic framework to evaluate data imputat
 
 # Content
 
+### Outbreak simulation
+Alogrithmic framework used to simulate outbreak data characteristics.
