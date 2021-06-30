@@ -23,5 +23,5 @@ Main R packages required to reproduce the simulation experiments.
 Sample script for visualising the outputs of the simulation experiments. 
 
 ### Simulated data.
-Sample of the simulated data used for these experiments. ( These data were simulated based on real outbreak data from the World Health Organisation (WHO). However, request for access to a real-life outbreak data should be made directly to the WHO by individual researchers and/or research groups)
+Sample of the simulated data used for these experiments. ( These data were simulated based on real outbreak data from the World Health Organisation (WHO). However, request for access to a real-life outbreak data should be made directly to the WHO by individual researchers and/or research groups).
 
